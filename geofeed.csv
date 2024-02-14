@@ -1,0 +1,11 @@
+# OXIO Geofeed
+# This feed is encoded in RFC 8805 format.
+#
+# This data feed provides approximate geo locations for a subset of
+# OXIO IP space, and the data included in this feed may be used only
+# for improving the accuracy of Geo:IP lookups.
+
+38.65.22.0/24,US,US-NJ,Secaucus,
+38.99.92.0/24,US,US-CA,Santa Clara,
+187.87.26.0/24,MX,MX-CMX,Mexico City,
+187.87.27.0/24,MX,MX-NLE,Monterrey,
